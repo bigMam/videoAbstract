@@ -1,0 +1,8 @@
+#visual stdio2010
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+#Debug
+Debug/
+#special
+*.rar
